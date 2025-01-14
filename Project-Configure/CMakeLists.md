@@ -22,12 +22,19 @@ IDF默认包含组件路径`COMPONENT_DIRS`​为`./components`​，该文件�
 
 ## Main文件夹
 
+### 常规设定
+
 ```cmake
 idf_component_register(SRCS "TTGO_LVGL_example_main.c"
                        INCLUDE_DIRS ".")
 ```
 
 ​`idf_component_register`​ IDF注册组件，idf下各子组件必要代码
+
+### 集成SquareLine UI代码时需适当修改
+
+> 详见[SquareLine代码集成](../LVGL/SquareLine/Code-Embed.md)
+
 
 ## 组件文件夹
 
