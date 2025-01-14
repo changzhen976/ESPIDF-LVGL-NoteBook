@@ -15,7 +15,7 @@
 
 
 
-> CMake [添加当前目录及其子目录下的所有c文件列表到lib_srcs变量中命令](https://cmake.org/cmake/help/latest/command/file.html#glob-recurse)
+> CMake [GLOB_RECURSE](https://cmake.org/cmake/help/latest/command/file.html#glob-recurse)指令
 > `file(GLOB_RECURSE lib_srcs *.c)` 含义: 添加当前目录及其子目录下的所有c文件列表到lib_srcs变量中
 > `GLOB` 指定文件夹内匹配的文件; `GLOB_RECURSE`: 指定文件夹及其子文件夹内所有匹配的文件
 >

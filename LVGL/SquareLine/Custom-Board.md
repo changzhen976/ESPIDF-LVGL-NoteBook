@@ -2,6 +2,7 @@
 ----
 
 > [SquareLine在线文档](https://docs.squareline.io/docs/obp/)
+> [自定义开发板git仓库](https://github.com/changzhen976/SquareLine-Custom-Board)
 
 ## 自定义文件夹
 
