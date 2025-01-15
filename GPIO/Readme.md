@@ -1,4 +1,4 @@
-# Readme
+# GPIO配置
 ----
 
 - [普通输入输出](./Normal_IO.md): 常规IO口设置

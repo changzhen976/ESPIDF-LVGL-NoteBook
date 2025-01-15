@@ -1,8 +1,9 @@
-# Readme
+# ESP-IDF 使用过程中记录的笔记
 ----
 
-本仓库用于记录`ESP-IDF`学习中遇到的问题及解决方法
-主要分为几大方面
+> 本仓库用于记录`ESP-IDF`学习中遇到的问题及解决方法
+> 按模块分为以下各类, 点击超链接跳转
+> 仓库地址: [ESPIDF-LVGL-NoteBook.git](https://github.com/changzhen976/ESPIDF-LVGL-NoteBook.git)
 
 - [工程配置](./Project-Configure/Readme.md): 用于IDF工程配置, 添加组件依赖, 解决编译中遇到的问题等
     - [IDF命令行工具](./Project-Configure/cmd-tool/Readme.md)

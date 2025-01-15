@@ -1,4 +1,4 @@
-# Readme
+# LVGL笔记
 ----
 
 - [LVGL初始化](./LVGL_Init.md): LGVL初始化代码解读

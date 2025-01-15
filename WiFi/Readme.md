@@ -1,4 +1,4 @@
-# Readme
+# WiFi配置
 ----
 
 - [WiFi连接](./WiFi-Init.md): WiFi连接
