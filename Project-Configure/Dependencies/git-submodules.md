@@ -38,6 +38,8 @@ git submodule update --recursive --remote
 > `--recursive`:   递归地更新所有子模块 包含子模块的子模块
 > `--remote`:        从子模块的远程仓库拉取最新的更改
 
+> 更新子模块后, 需要提交最新更改, 远程仓库才能同步
+
 ### 检查子模块状态
 
 ```shell

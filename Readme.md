@@ -22,8 +22,8 @@
         - [分区表设置](./WiFi/OTA/esp32分区表.md): ESP32分区表的使用与自定义
         - [软件版本设置](./WiFi/OTA/软件版本设定.md)
 - [LVGL配置](./LVGL/Readme.md): LVGL学习笔记
-    - LVGL初始化
-    - UI代码解析
-    - 外部输入设置适配
+    - [LVGL初始化](./LVGL/LVGL_Init.md)
+    - [UI代码解析](./LVGL/UI/Readme.md)
+    - [外部输入设置适配](./LVGL/Indev_Port/Readme.md)
     - SquareLine相关
 - [BUS总线配置](./BUS/Readme.md): 常用总线配置 SPI UART IIC CAN 等
