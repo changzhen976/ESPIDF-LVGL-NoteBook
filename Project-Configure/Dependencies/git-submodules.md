@@ -60,7 +60,7 @@ git submodule status
 ### `deinit`命令
 
 1. 使用`deinit`命令移除submodules
-    - `git submodules deinit path/to/submodule`
+    - `git submodule deinit path/to/submodule`
     - 该命令会编辑`.submodules`文件, 并将子模块从`.git/config`中移除, 并删除子模块目录中的文件
 2. 移除子模块文件夹远程同步
     - `git rm path/to/submodule`
