@@ -9,6 +9,7 @@
     - [IDF命令行工具](./Project-Configure/cmd-tool/Readme.md)
     - [CMakeLists配置](./Project-Configure/CMakeLists.md)
     - [Menuconfig配置](./Project-Configure/KConfig.md)
+    - [VSCode插件多版本切换](./Project-Configure/VSCode-Plugin/MultiVersion-IDF.md)
 - [GPIO配置](./GPIO/Readme.md): IO口的常用配置方法
     - [普通输入输出](./GPIO/Normal_IO.md): 常规IO口设置
     - [外部中断](./GPIO/ISR.md): IO口外部中断
