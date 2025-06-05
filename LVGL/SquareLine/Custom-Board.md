@@ -1,4 +1,4 @@
-# Custom-Board
+# 自定义开发板设置
 ----
 
 > [SquareLine在线文档](https://docs.squareline.io/docs/obp/)

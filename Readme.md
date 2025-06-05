@@ -26,5 +26,5 @@
     - [LVGL初始化](./LVGL/LVGL_Init.md)
     - [UI代码解析](./LVGL/UI/Readme.md)
     - [外部输入设置适配](./LVGL/Indev_Port/Readme.md)
-    - SquareLine相关
+    - [SquareLine相关](./LVGL/SquareLine/Readme.md)
 - [BUS总线配置](./BUS/Readme.md): 常用总线配置 SPI UART IIC CAN 等
