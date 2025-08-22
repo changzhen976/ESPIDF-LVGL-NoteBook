@@ -177,12 +177,8 @@ CompileFlags :
 
 使用`.clangd`文件包含路径也无法全部消除
 
-```yaml
-
-```
-
 ![freeRTOS警告](vx_images/486272831412508.png)
 
 ![freeRTOS错误](vx_images/104642033545819.png)
 
-仅前段报错, 不影响编译
+仅前端报错, 不影响编译
