@@ -1,0 +1,18 @@
+{
+  "createdUtc": 1739326301000,
+  "files": [
+    {
+      "createdUtc": 1739326331000,
+      "id": "1de0986d-b510-4aae-aa68-ce042d845a39",
+      "metadata": {},
+      "modifiedUtc": 1749175547000,
+      "name": "MultiVersion-IDF.md",
+      "tags": []
+    }
+  ],
+  "folders": [],
+  "id": "0a66d2d6-2962-4c0f-8a0c-274beb4e2013",
+  "metadata": {},
+  "modifiedUtc": 1789971499177,
+  "name": "VSCode-Plugin"
+}

@@ -1,0 +1,15 @@
+{
+  "assetsFolder": "vx_assets",
+  "autoSyncEnabled": true,
+  "description": "ESP IDF Note during developing",
+  "id": "f9939b57-7a1d-4f78-95f3-607d88737898",
+  "ignored": [],
+  "metadata": {},
+  "name": "ESP-IDF_Note",
+  "recycleBinFolder": "vx_notebook/recycle_bin",
+  "syncBackend": "",
+  "syncEnabled": false,
+  "syncRemoteUrl": "",
+  "tags": [],
+  "tagsModifiedUtc": 0
+}

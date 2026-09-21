@@ -1,0 +1,46 @@
+{
+  "createdUtc": 1736753720000,
+  "files": [
+    {
+      "createdUtc": 1736754941000,
+      "id": "e2b210c3-093a-4977-874d-3d426a66b397",
+      "metadata": {},
+      "modifiedUtc": 1736904564000,
+      "name": "CMakeLists.md",
+      "tags": []
+    },
+    {
+      "createdUtc": 1735283695000,
+      "id": "a79bb852-c4f3-49c0-9bd5-d95b41088ffb",
+      "metadata": {},
+      "modifiedUtc": 1749194080000,
+      "name": "KConfig.md",
+      "tags": []
+    },
+    {
+      "createdUtc": 1736759692000,
+      "id": "90b782d9-86f1-4f8b-884d-2203ac146c3b",
+      "metadata": {},
+      "modifiedUtc": 1755764807000,
+      "name": "Readme.md",
+      "tags": []
+    },
+    {
+      "createdUtc": 1755764736000,
+      "id": "c6aa8f24-1d9e-41fd-bcaa-da687b5101a8",
+      "metadata": {},
+      "modifiedUtc": 1755848891000,
+      "name": "nvim-config.md",
+      "tags": []
+    }
+  ],
+  "folders": [
+    "Dependencies",
+    "cmd-tool",
+    "VSCode-Plugin"
+  ],
+  "id": "09004bc2-6d59-4745-a460-de34412d581d",
+  "metadata": {},
+  "modifiedUtc": 1789971499165,
+  "name": "Project-Configure"
+}

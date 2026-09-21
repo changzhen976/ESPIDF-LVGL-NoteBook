@@ -1,0 +1,50 @@
+{
+  "createdUtc": 1736755853000,
+  "files": [
+    {
+      "createdUtc": 1736755838000,
+      "id": "60a7759a-8209-4d1d-ad80-02e0d33371dd",
+      "metadata": {},
+      "modifiedUtc": 1736755838000,
+      "name": "esptool.py.md",
+      "tags": []
+    },
+    {
+      "createdUtc": 1736755838000,
+      "id": "ce8e8b43-12c6-41d4-af7c-3fb0d5255d0a",
+      "metadata": {},
+      "modifiedUtc": 1739234974000,
+      "name": "OPEN-OCD&GDB.md",
+      "tags": []
+    },
+    {
+      "createdUtc": 1736755838000,
+      "id": "7ec46bc7-e2ad-4635-8159-e50e2e5b679e",
+      "metadata": {},
+      "modifiedUtc": 1736756149000,
+      "name": "IDF基础命令行.md",
+      "tags": []
+    },
+    {
+      "createdUtc": 1736760201000,
+      "id": "56d70ce4-215f-452c-ac9b-844989ed21d8",
+      "metadata": {},
+      "modifiedUtc": 1749180115000,
+      "name": "Readme.md",
+      "tags": []
+    },
+    {
+      "createdUtc": 1749180054000,
+      "id": "24f214e8-c4f2-4340-bc97-322afac0147b",
+      "metadata": {},
+      "modifiedUtc": 1749180523000,
+      "name": "wsl-idf-project.md",
+      "tags": []
+    }
+  ],
+  "folders": [],
+  "id": "72210ca9-c1f6-418f-80dd-d642d0a26c69",
+  "metadata": {},
+  "modifiedUtc": 1789971499156,
+  "name": "cmd-tool"
+}

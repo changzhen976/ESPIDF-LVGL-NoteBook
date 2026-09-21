@@ -1,0 +1,24 @@
+{
+  "createdUtc": 1789971498991,
+  "files": [
+    {
+      "createdUtc": 1736758877000,
+      "id": "2cbb3fb0-4fef-4eca-b3a2-7d1e6d803aa4",
+      "metadata": {},
+      "modifiedUtc": 1749106568000,
+      "name": "Readme.md",
+      "tags": []
+    }
+  ],
+  "folders": [
+    "Project-Configure",
+    "GPIO",
+    "WiFi",
+    "LVGL",
+    "BUS"
+  ],
+  "id": "daaf02d2-854b-4df2-ba64-a61366043f8f",
+  "metadata": {},
+  "modifiedUtc": 1789971499536,
+  "name": "."
+}

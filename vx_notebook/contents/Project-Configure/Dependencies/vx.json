@@ -1,0 +1,26 @@
+{
+  "createdUtc": 1736755122000,
+  "files": [
+    {
+      "createdUtc": 1736755195000,
+      "id": "31b3b9b6-b161-432d-9115-a32a180ea765",
+      "metadata": {},
+      "modifiedUtc": 1736755195000,
+      "name": "IDF-Dependencies.md",
+      "tags": []
+    },
+    {
+      "createdUtc": 1736755219000,
+      "id": "dd718a96-c229-49f7-b127-7d90ee3b830b",
+      "metadata": {},
+      "modifiedUtc": 1737005831000,
+      "name": "git-submodules.md",
+      "tags": []
+    }
+  ],
+  "folders": [],
+  "id": "e003d3ea-a7c3-46dc-aa39-a66150c1d3b3",
+  "metadata": {},
+  "modifiedUtc": 1789971499095,
+  "name": "Dependencies"
+}

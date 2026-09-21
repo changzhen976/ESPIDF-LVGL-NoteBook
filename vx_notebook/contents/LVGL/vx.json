@@ -1,0 +1,30 @@
+{
+  "createdUtc": 1736753700000,
+  "files": [
+    {
+      "createdUtc": 1736759784000,
+      "id": "09239bcb-bc33-497f-9e2c-1af7af674d9c",
+      "metadata": {},
+      "modifiedUtc": 1736904420000,
+      "name": "Readme.md",
+      "tags": []
+    },
+    {
+      "createdUtc": 1736846190000,
+      "id": "c60666ac-33fb-4fc8-b2b9-38ab3a9d366c",
+      "metadata": {},
+      "modifiedUtc": 1736846191000,
+      "name": "LVGL_Init.md",
+      "tags": []
+    }
+  ],
+  "folders": [
+    "UI",
+    "Indev_Port",
+    "SquareLine"
+  ],
+  "id": "a0e07aac-a721-4d5e-b41d-64b92cb9635a",
+  "metadata": {},
+  "modifiedUtc": 1789971499497,
+  "name": "LVGL"
+}

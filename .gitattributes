@@ -1,0 +1,2 @@
+# Store bytes as-is: no CRLF conversion (VNote writes CRLF JSON, git must not rewrite it)
+* -text

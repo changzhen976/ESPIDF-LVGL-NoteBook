@@ -1,1 +1,10 @@
+# VNote 4 recycle bin (legacy V3 path kept for compatibility)
+vx_notebook/recycle_bin/
 vx_recycle_bin/
+
+# Editor temp/backup files
+*.vswp
+*~
+*.tmp
+Thumbs.db
+.DS_Store
